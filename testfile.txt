@@ -5,8 +5,13 @@ Test words are easy and common!
 Our labs are done by both of us.
 We use these words to seek out problems. 
 <<<<<<< HEAD
+<<<<<<< HEAD
 To test it,we write these words in testfile.
 =======
 To test it,we write these words in testfile.
 ceshi test add
 >>>>>>> C4
+=======
+To test it,we write these words in testfile.
+//LJZ USE TO ADD CHANGEs
+>>>>>>> B2
