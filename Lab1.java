@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 //xindezhushi
-//yongyuceshixiugai
+//new new new xiugai last
 public class Lab1 {
     private Map<String, Map<String, Integer>> graph;
 	private Map<String, Integer> node;
