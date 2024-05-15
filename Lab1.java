@@ -3,7 +3,12 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
+<<<<<<< HEAD
 //NEW TEST XIUGAI
+=======
+//xindezhushi
+//new new new xiugai last
+>>>>>>> C4
 public class Lab1 {
     private Map<String, Map<String, Integer>> graph;
 	private Map<String, Integer> node;
