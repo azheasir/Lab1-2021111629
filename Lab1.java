@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
-
+//NEW TEST XIUGAI
 public class Lab1 {
     private Map<String, Map<String, Integer>> graph;
 	private Map<String, Integer> node;
