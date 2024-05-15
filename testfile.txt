@@ -1,0 +1,7 @@
+To @ explore strange new worlds,
+To seek out new life and new civilizations?
+We write these words to test.
+Test words are easy and common!
+Our labs are done by both of us.
+We use these words to seek out problems. 
+To test it,we write these words in testfile.
